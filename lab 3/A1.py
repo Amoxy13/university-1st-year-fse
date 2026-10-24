@@ -1,10 +1,6 @@
-print("Input x1")
 x1 = int(input())
-print("Input y1")
 y1 = int(input())
-print("Input x2")
 x2 = int(input())
-print("Input y2")
 y2 = int(input())
 
 def quarter(x, y):
